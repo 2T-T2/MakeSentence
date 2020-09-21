@@ -1,4 +1,4 @@
-# MarcovChain_SentenceMaker
+# MakeSentence
 
 # 注意事項！
 wakati.vbsは、MicroSoft Wordがインストールされている、Windows環境でのみ動作します。
